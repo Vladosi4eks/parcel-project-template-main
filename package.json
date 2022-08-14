@@ -2,7 +2,7 @@
   "name": "js-work-8",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Vladosi4eks/js-work-8",
+  "homepage": "https://Vladosi4eks.github.io/js-work-8",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /js-work-8/"
